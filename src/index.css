@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: Verdana;
+  color: darkgray;
+}
+
+h2 {
+  font-family: Verdana;
+  color: orangered;
+}
+
+p{
+  font-family:Courier;
+}
+
+span{
+  background-color:yellow;
+}
+
+th {
+    color: orangered;
+}
+
+td {
+    text-align: center;
+}
